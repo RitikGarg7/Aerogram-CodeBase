@@ -13,6 +13,7 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 
 <img src="screenshots/map.jpeg" height="600" width="290"></img>
 <img src="screenshots/news1.jpeg" height="600" width="290"></img>
+<br>
 <img src="screenshots/data.jpeg" height="600" width="290"></img>
 <img src="screenshots/splash.jpeg" height="600" width="290"></img>
 

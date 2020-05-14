@@ -10,12 +10,12 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
 
-
+<img src="screenshots/splash.jpeg" height="600" width="290"></img>
+<br>
 <img src="screenshots/map.jpeg" height="600" width="290"></img>
 <img src="screenshots/news1.jpeg" height="600" width="290"></img>
 <br>
 <img src="screenshots/data.jpeg" height="600" width="290"></img>
-<img src="screenshots/splash.jpeg" height="600" width="290"></img>
 
  
  
